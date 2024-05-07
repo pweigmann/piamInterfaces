@@ -21,3 +21,4 @@ idx;Variable;Unit;piam_variable;piam_unit;piam_factor;piam_spatial;internal_comm
 ;GDP|MER|including medium chronic physical risk damage estimate;billion US$2010/yr;GDP|MER|including medium chronic physical risk damage estimate;billion US$2005/yr;1.12;;;;;
 ;GDP|MER|including high chronic physical risk damage estimate;billion US$2010/yr;GDP|MER|including high chronic physical risk damage estimate;billion US$2005/yr;1.12;;;;;
 ;GDP|MER|w/ Macro-Economic Climate Damage;billion US$2010/yr;GDP|MER|w/ Macro-Economic Climate Damage;billion US$2005/yr;1.12;;;;;
+;Emissions|CO2|Energy|Supply|Extraction;Mt CO2/yr;Emi|CO2|Energy|Supply|Extraction;Mt CO2/yr;1;;;;energy-related CO2 emissions from extraction processes;
